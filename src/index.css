@@ -1,0 +1,23 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  /* background-image: url("assets/weather-app-bg2.jpg");
+  background-size: cover;          
+  background-position: center;     
+  background-repeat: no-repeat;
+  background-attachment: fixed;    
+  image-rendering: -webkit-optimize-contrast; */
+  background-color: rgb(23, 21, 21);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
