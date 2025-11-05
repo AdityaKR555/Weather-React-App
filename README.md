@@ -36,4 +36,8 @@ A simple and responsive **React Weather Application** that displays real-time we
 * Handling asynchronous requests with `async/await`
 * Managing component state with React Hooks
 * Handling form input and user interaction
+<<<<<<< HEAD
 * Structuring a React project with clean and reusable components
+=======
+* Structuring a React project with clean and reusable components
+>>>>>>> 6df063b6142eb986819c6780ba7d4abe18b659a0

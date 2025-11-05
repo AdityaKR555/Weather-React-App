@@ -7,8 +7,8 @@ function App() {
   const [weather, setWeather] = useState(null);
   const [error, setError] = useState("");
 
-  // const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
-  const API_KEY = "41dc506d85575f8006125871a5629af6";
+  const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
+
   
   console.log("API Key:", API_KEY);
 
