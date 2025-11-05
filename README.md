@@ -26,11 +26,7 @@ A simple and responsive **React Weather Application** that displays real-time we
 
 ## 📸 Preview
 
-<<<<<<< HEAD
-*Will add soon*
-=======
-<img src="image.png" alt="output">
->>>>>>> 82ff84d (added output picture)
+<img src="./image.png" alt="output">
 
 ---
 
@@ -40,8 +36,3 @@ A simple and responsive **React Weather Application** that displays real-time we
 * Handling asynchronous requests with `async/await`
 * Managing component state with React Hooks
 * Handling form input and user interaction
-<<<<<<< HEAD
-* Structuring a React project with clean and reusable components
-=======
-* Structuring a React project with clean and reusable components
->>>>>>> 82ff84d (added output picture)
